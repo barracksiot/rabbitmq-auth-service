@@ -1,0 +1,14 @@
+== Authorization
+
+=== Check resource
+
+include::{snippets}/auth/check/request-parameters.adoc[]
+
+==== Request
+
+include::{snippets}/auth/check/http-request.adoc[]
+include::{snippets}/auth/check/curl-request.adoc[]
+
+==== Response
+
+include::{snippets}/auth/check/http-response.adoc[]

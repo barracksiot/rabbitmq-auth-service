@@ -1,0 +1,7 @@
+{
+  "username": "coucou",
+  "vhost": "/",
+  "resource": "topic",
+  "name": "apiKey/unitId",
+  "permission": "admin"
+}

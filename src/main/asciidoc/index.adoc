@@ -1,0 +1,3 @@
+= RabbitMQ Authorization Service
+
+include::docs/auth.adoc[]

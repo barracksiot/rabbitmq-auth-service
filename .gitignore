@@ -1,0 +1,11 @@
+build
+target
+.idea
+.gradle
+*.iml
+classes
+.DS_Store
+gradlew
+gradlew.bat
+gradle-wrapper.jar
+gradle-wrapper.properties
